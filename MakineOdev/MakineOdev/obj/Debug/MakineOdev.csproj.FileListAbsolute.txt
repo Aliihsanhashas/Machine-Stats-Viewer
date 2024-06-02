@@ -1,0 +1,10 @@
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\bin\Debug\MakineOdev.exe.config
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\bin\Debug\MakineOdev.exe
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\bin\Debug\MakineOdev.pdb
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.csproj.AssemblyReference.cache
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.Properties.Resources.resources
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.csproj.GenerateResource.cache
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.csproj.CoreCompileInputs.cache
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.exe
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.pdb
+C:\Users\aliih\source\repos\MakineOdev\MakineOdev\obj\Debug\MakineOdev.Form1.resources
