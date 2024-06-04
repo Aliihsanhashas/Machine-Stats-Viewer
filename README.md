@@ -22,6 +22,5 @@ How to Use:
 This project was developed as a school assignment to demonstrate skills in data processing, GUI design, and data visualization in C#.
 
 
-![github02](https://github.com/Aliihsanhashas/studentApplication/assets/30952683/8770d9e4-97e9-4cd1-825f-d7a0a933ba1e)
 
 ![githubjpeg](https://github.com/Aliihsanhashas/studentApplication/assets/30952683/8178dc1c-e53f-456b-9c3e-d315b3424348)
